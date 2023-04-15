@@ -22,7 +22,8 @@ const NightTerrorClient = new NightTerror({show: true});
 NightTerrorClient
     .goto("https://google.com");
 ```
-
+### For full documentation, see <a href="https://github.com/segmentio/nightmare/blob/master/Readme.md">Nightmare's README</a>.
+## Other Information and Help
 In the future, I plan to add more methods as needed, but I am a busy man.<br>
 ❤️ If you require any assistance, feel free to join <a href="https://discord.gg/y6UywbeB3U">my support Discord!</a>!<br>
 💙 If you would love to support me as an independent developer and have the means necessary, check out https://ko-fi.com/evangassman! Anything is appreciated! 
