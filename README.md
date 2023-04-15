@@ -1,6 +1,6 @@
 # nightterror
-NightTerrorJS is a high-level browser automation library based on DreamJS, NightmareJS, and NightmareXPATH.
-NightTerror is composed of elements from each, creating a stronger and more efficient library.
+NightTerrorJS is a high-level browser automation library based on <a href="https://github.com/YZYLAB/dream-js">DreamJS</a>, <a href="https://github.com/segmentio/nightmare">NightmareJS</a>, and <a href="https://github.com/unlight/nightmare-xpath">NightmareXPATH</a>.
+NightTerror is composed of elements from each, with my additional original code, creating a stronger and more efficient library.
 
 ## What does Nightterror have to offer?
 - `.xpath()` native method and support. [NightmareXPATH]
