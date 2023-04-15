@@ -20,7 +20,7 @@ const NightTerror = require("./index");
 const NightTerrorClient = new NightTerror({show: true});
 
 NightTerrorClient
-  .goto();
+    .goto("https://google.com");
 ```
 
 In the future, I plan to add more methods as needed, but I am a busy man.<br>
