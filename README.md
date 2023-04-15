@@ -7,7 +7,7 @@ NightTerror is composed of elements from each, with my additional original code,
 - Removed uneccesary annotations, comments, and documentation from scripts. [NightTerrorJS] ✔️
 - Uses ESM modules instead of CJS. [DreamJS] ✔️
 - Extra added security to make the webscraper less detectable [DreamJS] ✔️
-- Fixed broken scripts and evluation mechanics from DreamJS [NightTerrorJS] ✔️
+- Fixed broken scripts and evaluation mechanics from DreamJS [NightTerrorJS] ✔️
 
 ## Install for NodeJS
 ```css
